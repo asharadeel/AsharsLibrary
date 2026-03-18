@@ -9,4 +9,5 @@ Library of repeated programs written in my most used langauges.
 - C#
 - Java
 - Lua
+- Python
 
